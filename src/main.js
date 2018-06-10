@@ -1,6 +1,5 @@
+import 'jquery'
 function name(params) {
-  //sdsf
+  //
 }
-//gfdgd
-//gfdgfd
 
